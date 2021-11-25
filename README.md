@@ -1,4 +1,4 @@
-![logo](Images/logo.svg)
+![logo](images/logo.png)
 
 # Canister generative art engine
 This project is a small C project for me to experiment with pixel manipulation
