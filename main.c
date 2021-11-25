@@ -11,7 +11,7 @@ Author : Théo Lisart
 #include <string.h>
 #include <stdint.h> // Integer size handling
 
-#include "artengine.h"
+#include "canister.h"
 
 // engine variables : sWidth, sDepth
 
@@ -75,7 +75,6 @@ void main(){
   int amp = 10;
   //reverseColor(n, width, height, &vFrame);
   rgbNoiser(0, 0, width - 1, height - 1, width, height, amp, &vFrame);
-  6
   cToBitmap(n, width, height, projectName, &vFrame);
 
   // Freeing memory

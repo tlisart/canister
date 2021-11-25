@@ -12,6 +12,5 @@
   - [] Drawing lines
   - [] Drawing splines
 
-
 -- [] Technologies
-  - [] Simple neural network 
+  - [] Simple neural network
