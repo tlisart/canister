@@ -1,0 +1,17 @@
+
+-- [] Basic features
+  - [] ffmmpeg export of images
+    - [] Command call
+    - [] Saving frames into proper folder
+    - [] Naming system
+
+-- [] Algorithm
+  - [] Diffusion algorithm with IC and BC
+  - [] Color gradient according to density (IC)
+
+  - [] Drawing lines
+  - [] Drawing splines
+
+
+-- [] Technologies
+  - [] Simple neural network 
